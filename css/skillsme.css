@@ -1,0 +1,20 @@
+* {box-sizing: border-box}
+
+.container11 {
+  width: 75%;
+  background-color: #ddd;
+}
+
+.skills11 {
+  text-align: right;
+  color: white;
+}
+.c11 {width: 95%; background-color: #2196F3;}
+.cc11 {width: 75%; background-color: #2196F3;}
+.java11 {width: 90%; background-color: #2196F3;}
+.python11 {width: 80%; background-color: #2196F3;}
+.html11 {width: 90%; background-color: #2196F3;}
+.css11 {width: 80%; background-color: #2196F3;}
+.js11 {width: 65%; background-color: #2196F3;}
+.php11 {width: 80%; background-color: #2196F3;}
+.ajs11 {width: 60%; background-color: #2196F3;}
